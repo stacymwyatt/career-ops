@@ -40,7 +40,7 @@
 
 5. **Versions**:
    - EN (default)
-   - Spanish (if targeting a Spanish-language company)
+   - ES (if Spanish company)
 
 6. **Alternative targets** with justification for why they are good second choices
 
